@@ -12,7 +12,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Demo 
 
-You can check out a live demo of this website [here](https://xcordeva.github.io/FrontEndMentor-Challenges/Order-Summary-Page/).
+You can check out a live demo of this website [Click here](https://xcordeva.github.io/order-summary-page-FrontendmentorChallenges).
 
 
 ### Screenshot
